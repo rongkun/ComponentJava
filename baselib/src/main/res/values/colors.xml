@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03cbb9</color>
+    <color name="colorPrimaryDark">#03cbb9</color>
+    <color name="colorAccent">#03cbb9</color>
+
+    <color name="themeColor">#02cbba</color>
+    <color name="themeColor_dark">#01ab9c</color>
+    <color name="frameGray">#e0e0e0</color>
+    <color name="hintGray">#999999</color>
+    <color name="textBlack">#101010</color>
+
+    <color name="TextNext_black">#ff8a33</color>
+    <color name="TextNext_black_a">#aaff8a33</color>
+    <color name="title_center_tv">#ffffff</color>
+    <color name="c_333333">#333333</color>
+
+    <color name="textGray">#999999</color>
+    <color name="gray_bg">#f0eeee</color>
+    <color name="textWhite">#f7f5f5</color>
+
+    <color name="c_ffffff">#ffffff</color>
+    <color name="c_cef2f0">#cef2f0</color>
+</resources>

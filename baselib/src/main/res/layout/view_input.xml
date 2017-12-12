@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/inputview_tv"
+        android:minHeight="42dp"
+        android:gravity="center_vertical"
+        style="@style/ed_left_tv"/>
+
+    <EditText
+        android:id="@+id/inputview_et"
+        style="@style/ed_ed"
+        android:minHeight="42dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

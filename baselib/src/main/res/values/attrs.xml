@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InputView">
+        <attr name="inputview_hint" format="string|reference" />
+        <attr name="inputview_text" format="string|reference" />
+        <attr name="inputview_textwidth" format="dimension" />
+
+        <attr name="inputview_inputstyle" format="enum">
+            <enum name="text" value="1" />
+            <enum name="num" value="2" />
+            <enum name="phone" value="3" />
+            <enum name="datetime" value="4" />
+            <enum name="password" value="129" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width_c" format="dimension" />
+        <attr name="border_color_c" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+</resources>
